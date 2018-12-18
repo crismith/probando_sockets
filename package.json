@@ -1,0 +1,15 @@
+{
+	"name": "chat-test",
+	"version": "0.0.1",
+	"description": "my primer chat",
+	"dependencies": {
+		"express": "^4.15.2",
+		"socket.io": "^1.7.3"
+	},
+	"scripts": {
+		"start": "nodemon index.js"
+	},
+	"devDependencies": {
+		"nodemon": "^1.18.6"
+	}
+}
